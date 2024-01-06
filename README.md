@@ -5,6 +5,9 @@ In today's digital age, the manner in which we store, retrieve, and authenticate
 
 At its core, our project seeks to leverage the power of blockchain technology and the InterPlanetary File System (IPFS) to create a prototype for an educational records management system. This prototype aims to be secure, transparent, and tamper-proof. The use of Ethereum's testnet provides us with a realistic yet safe environment to deploy and test our solution, while IPFS, hosted on an AWS Ubuntu instance, ensures the data remains accessible and persistent.
 
+## Developer Team:
+Chris Ledet, Christian Manibusan, Alex Nelson, My Dang, Kenny Wang
+
 ## Setup
 
 ### Requirements:
